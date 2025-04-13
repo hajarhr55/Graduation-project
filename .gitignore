@@ -1,0 +1,15 @@
+# تجاهل ملف auth.json
+wp-content/themes/astra/auth.json
+
+# تجاهل كل ملفات JSON في الثيم
+wp-content/themes/astra/*.json
+
+# تجاهل مجلد uploads كامل
+wp-content/uploads/
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
+
+# تجاهل مجلد node_modules
+node_modules/
